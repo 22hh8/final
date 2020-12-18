@@ -5,8 +5,8 @@ account: hailey-han65
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3406856
-bundleId: 4003422
+bundleId: 4005581
 url: https://hailey-han65.shinyapps.io/final/
-when: 1608245609.789
+when: 1608292633.52878
 asMultiple: FALSE
 asStatic: FALSE
